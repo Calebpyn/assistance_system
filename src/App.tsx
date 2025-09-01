@@ -1,4 +1,4 @@
-import ComponenteAsistencia from "./components/componenteAsistencia";
+import ComponenteAsistencia from "./components/ComponenteAsistencia";
 
 function App() {
   return (
